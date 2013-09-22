@@ -4,6 +4,8 @@ Github Minus 1 Extension
 
 Chrome extension to hide all +1 comments on Github issues and pull requests.
 
+[Install the Chrome extension](https://chrome.google.com/webstore/detail/cbfnmmflenhjjkkbojhipahbmhbihlok/publish-accepted)
+
 ZOMG Fork! Thank you!
 ---------
 
